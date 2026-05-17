@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+/*  your css /* your css code here */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 400px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.output {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+}code here. If applicable */
